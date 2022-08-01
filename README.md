@@ -1,5 +1,3 @@
-# coe8749e8b31f2556d20b9472
-
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
